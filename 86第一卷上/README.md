@@ -108,5 +108,5 @@
     
 ## 链接
 
-- [目录](meandyou.md)
+-[目录](meandyou.md)
 - 下一章: [阵亡者为零的战场](one.md)
